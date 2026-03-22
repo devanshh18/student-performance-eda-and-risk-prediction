@@ -162,5 +162,5 @@ Pass            0.92        0.90       0.91
 
 ## Author
 
-**Your Name**
+**Devansh Patil**
 [LinkedIn](https://linkedin.com/in/devansh-patil) | [GitHub](https://github.com/devanshh18)
