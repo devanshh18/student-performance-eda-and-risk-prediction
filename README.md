@@ -153,10 +153,10 @@ Pass            0.92        0.90       0.91
 ![Excel Dashboard](screenshots/excel_dashboard.png)
 
 ### Power BI — Overview Page
-![Power BI Overview](screenshots/powerbi_overview.png)
+![Power BI Overview](screenshots/student_performance_overview.png)
 
 ### Power BI — Risk Analysis Page
-![Power BI Risk Analysis](screenshots/powerbi_risk.png)
+![Power BI Risk Analysis](screenshots/student_performance_risk_analysis.png)
 
 ---
 
