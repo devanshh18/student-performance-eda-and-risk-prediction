@@ -146,3 +146,7 @@ WHERE G3 = 0;
 -- 38 students scored 0 on the final exam -- that's 9.6% of the class
 -- likely complete disengagement, not just poor performance
 -- these are the most urgent cases for any intervention system
+
+
+
+SELECT * FROM student_analysis.student_performance;
